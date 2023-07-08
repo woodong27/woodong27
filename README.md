@@ -4,6 +4,8 @@
 
 ## 최동우
 
+#### 풀스택 개발자가 되기 위해 천천히 기어가는 중
+
 SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <br>
