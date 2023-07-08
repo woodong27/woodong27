@@ -6,7 +6,7 @@
 
 SSAFY(Samsung SW Academy For Youth) 9th
 <br>
-<br
+<br>
 
 ## Stacks
 
