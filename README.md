@@ -4,8 +4,7 @@
 
 ## 최동우
 
-### 풀스택 개발자를 향해 천천히 기어가는 중
-
+### 풀스택 개발자를 향해 천천히 기어가는 중<br>(Growing slowly as a full-stack developer)
 SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <br>
@@ -43,7 +42,6 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true&theme=holi)
 
-<br>
 <br>
 
 ## Portfolio
