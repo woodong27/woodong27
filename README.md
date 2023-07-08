@@ -39,9 +39,9 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 ## Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodong27&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodong27&layout=compact&theme=holi)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true&theme=holi)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5293e9&section=footer)
 </div>
