@@ -6,6 +6,7 @@
 
 SSAFY(Samsung SW Academy For Youth) 9th
 <br>
+<br
 
 ## Stacks
 
@@ -33,6 +34,8 @@ SSAFY(Samsung SW Academy For Youth) 9th
 
 <br>
 <br>
+
+## Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodong27&layout=compact)
 
