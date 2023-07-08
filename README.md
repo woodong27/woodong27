@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5293e9&text=Hello%20World!&height=300&animation=twinkling&fontColor=FFFFFF&desc=woodong27's%20Github%20profile&descAlign=60&descAlignY=65)
 
-## 최동우<br>풀스택 개발자를 향해 천천히 기어가는 중
+## 최동우
+
+### 풀스택 개발자를 향해 천천히 기어가는 중
 
 SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
