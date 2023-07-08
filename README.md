@@ -44,4 +44,12 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true&theme=holi)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5090ce&section=footer)
+
+<br>
+<br>
+
+## Portfolio
+
+[IT 포트폴리오 - Notion](https://www.notion.so/IT-a13b58d6cd574f1897875e8548ad2476)
+
 </div>
