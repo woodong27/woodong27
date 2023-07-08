@@ -4,7 +4,7 @@
 
 ## 최동우
 
-SSAFY(Samsung SW Academy For Youth) 9th
+SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <br>
 
