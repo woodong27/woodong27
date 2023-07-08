@@ -43,5 +43,5 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true&theme=holi)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=5293e9&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5090ce&section=footer)
 </div>
