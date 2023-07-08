@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=5090ce&text=Hello%20World!&height=300&animation=twinkling&fontColor=FFFFFF&desc=woodong27's%20Github%20profile&descAlign=60&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5090ce&text=Hello%20World!&height=300&animation=twinkling&fontColor=FFFFFF&desc=woodong27's%20Github%20profile&descAlign=59.2&descAlignY=65)
 
 ## 최동우
 
