@@ -43,6 +43,14 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong27&show_icons=true&theme=holi)
 
 <br>
+<br>
+
+## Projects
+
+[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트](https://github.com/woodong27/Mo-Vieva-Magenta)
+
+<br>
+<br>
 
 ## Portfolio
 
