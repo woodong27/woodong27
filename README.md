@@ -34,7 +34,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/>
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logoColor=white&logo=raspberrypi"/>
 <br>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logoColor=white&logo=jira"/>
+<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logoColor=white&logo=jirasoftware"/>
 
 <br>
 <br>
