@@ -19,6 +19,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logoColor=white&logo=openjdk"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=Spring"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logoColor=white&logo=springboot"/>
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logoColor=white&logo=springsecurity"/>
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logoColor=white&logo=html5"/>
 <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logoColor=white&logo=css3"/>
@@ -34,6 +35,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/>
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logoColor=white&logo=raspberrypi"/>
 <br>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logoColor=white&logo=git"/>
 <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logoColor=white&logo=jirasoftware"/>
 
 <br>
