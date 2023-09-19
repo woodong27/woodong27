@@ -57,9 +57,9 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 ## Projects
 
-[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트](https://github.com/woodong27/Mo-Vieva-Magenta)
-[Scrooge - SSAFY 2학기 공통 프로젝트](https://github.com/woodong27/Scrooge)
-[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트](https://github.com/woodong27/shinhan-solup)
+[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트](https://github.com/woodong27/Mo-Vieva-Magenta)<br>
+[Scrooge - SSAFY 2학기 공통 프로젝트](https://github.com/woodong27/Scrooge)<br>
+[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트](https://github.com/woodong27/shinhan-solup)<br>
 
 <br>
 <br>
