@@ -5,6 +5,7 @@
 ## 최동우
 
 ### 풀스택 개발자를 향해 천천히 기어가는 중<br>(Growing slowly as a full-stack developer)
+
 SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 <br>
@@ -29,6 +30,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logoColor=white&logo=sqlite"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logoColor=white&logo=mysql"/>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logoColor=white&logo=postgresql"/>
 <img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logoColor=white&logo=mongodb"/>
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=cplusplus"/>
@@ -40,6 +42,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logoColor=white&logo=git"/>
 <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logoColor=white&logo=jirasoftware"/>
+<img src="https://img.shields.io/badge/gerrit-eeeeee?style=for-the-badge&logo=gerrit&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <br>
