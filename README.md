@@ -25,7 +25,6 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logoColor=white&logo=html5"/>
 <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logoColor=white&logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logoColor=white&logo=JAVASCRIPT"/>
-<img src="https://img.shields.io/badge/Vue.js-41b883?style=for-the-badge&logoColor=white&logo=VUE.JS"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white&logo=REACT"/>
 <br>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logoColor=white&logo=sqlite"/>
