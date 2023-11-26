@@ -71,7 +71,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 
 ## Portfolio
 
-[IT 포트폴리오 - Notion](https://woodong27.notion.site/IT-a13b58d6cd574f1897875e8548ad2476?pvs=4)
+[IT 포트폴리오 - Notion](https://woodong27.notion.site/5b715592a1b149e5bba65af96529d2ff?pvs=4)
 
 <br>
 
