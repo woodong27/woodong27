@@ -11,7 +11,7 @@ SSAFY(Samsung SW Academy For Youth) 9th - Python
 <br>
 <br>
 
-## Stacks
+## Skills
 
 <img src="https://img.shields.io/badge/Python-3771a2?style=for-the-badge&logoColor=white&logo=PYTHON"/>
 <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logoColor=white&logo=DJANGO"/>
