@@ -6,7 +6,7 @@
 
 ### 풀스택 개발자를 향해 천천히 기어가는 중<br>(Growing slowly as a full-stack developer)
 
-SSAFY(Samsung SW Academy For Youth) 9th - Python
+SSAFY(Samsung SW Academy For Youth) 9th - Python<br>
 SaTrecI - 지상국 Web Program Backend 개발
 
 <br>
