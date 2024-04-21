@@ -4,7 +4,7 @@
 
 ## 최동우
 
-### 풀스택 개발자를 향해 천천히 기어가는 중<br>(Growing slowly as a full-stack developer)
+### Web Backend Engineer
 
 2023.01 ~ 2023.12 <strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong><br>
 
