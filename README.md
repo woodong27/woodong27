@@ -7,7 +7,6 @@
 ### 풀스택 개발자를 향해 천천히 기어가는 중<br>(Growing slowly as a full-stack developer)
 
 2023.01 ~ 2023.12 <strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong><br>
-2024.01 ~ <strong>SaTrec Initiative - 지상국 Web Program Backend 개발</strong>
 
 <br>
 <br>
