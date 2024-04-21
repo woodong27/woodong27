@@ -60,11 +60,11 @@
 
 ## Projects
 
-[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트](https://github.com/woodong27/Mo-Vieva-Magenta)<br>
-[Scrooge - SSAFY 2학기 공통 프로젝트](https://github.com/woodong27/Scrooge)<br>
-[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트](https://github.com/woodong27/shinhan-solup)<br>
-[CatchTales - SSAFY 2학기 특화 프로젝트(우수상)](https://github.com/woodong27/CatchTales)<br>
-[Donggam - SSAFY 2학기 자율 프로젝트(우수상)](https://github.com/woodong27/Donggam)<br>
+[Donggam - SSAFY 2학기 자율 프로젝트(우수상) - Full Stack](https://github.com/woodong27/Donggam)<br>
+[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트 - Full Stack](https://github.com/woodong27/shinhan-solup)<br>
+[Scrooge - SSAFY 2학기 공통 프로젝트 - Backend](https://github.com/woodong27/Scrooge)<br>
+[CatchTales - SSAFY 2학기 특화 프로젝트(우수상) - Unity Engineer](https://github.com/woodong27/CatchTales)<br>
+[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트 - Backend](https://github.com/woodong27/Mo-Vieva-Magenta)<br>
 
 <br>
 <br>
