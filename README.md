@@ -6,7 +6,8 @@
 
 ### Web Backend Engineer
 
-2023.01 ~ 2023.12 <strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong><br>
+<strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong></br>
+<strong>Satrec Initiative - 지상국 Web Program Backend Engineer</strong></br>
 
 <br>
 <br>
