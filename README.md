@@ -70,6 +70,13 @@
 <br>
 <br>
 
+## Blog
+
+[Woodong27's Tech Blog](https://woodong27.github.io)
+
+<br>
+<br>
+
 ## Portfolio
 
 [IT 포트폴리오 - Notion](https://woodong27.notion.site/5b715592a1b149e5bba65af96529d2ff?pvs=4)
