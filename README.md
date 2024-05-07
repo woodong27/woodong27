@@ -6,8 +6,8 @@
 
 ### Web Backend Engineer
 
-<strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong></br>
-<strong>Satrec Initiative - 지상국 Web Program Backend Engineer</strong></br>
+<strong>SSAFY(Samsung SW Academy For Youth) 9th - Python</strong>   
+<strong>Satrec Initiative - 지상국 Web Program Backend Engineer</strong>   
 
 <br>
 <br>
@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logoColor=white&logo=jirasoftware"/>
 <img src="https://img.shields.io/badge/gerrit-eeeeee?style=for-the-badge&logo=gerrit&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 <br>
+
 <br>
 <br>
 
@@ -61,25 +61,19 @@
 
 ## Projects
 
-[Donggam - SSAFY 2학기 자율 프로젝트(우수상) - Full Stack](https://github.com/woodong27/Donggam)<br>
-[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트 - Full Stack](https://github.com/woodong27/shinhan-solup)<br>
-[Scrooge - SSAFY 2학기 공통 프로젝트 - Backend](https://github.com/woodong27/Scrooge)<br>
-[CatchTales - SSAFY 2학기 특화 프로젝트(우수상) - Unity Engineer](https://github.com/woodong27/CatchTales)<br>
-[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트 - Backend](https://github.com/woodong27/Mo-Vieva-Magenta)<br>
+[Donggam - SSAFY 2학기 자율 프로젝트(우수상) - Full Stack](https://github.com/woodong27/Donggam)   
+[SOLUP - 신한은행 x SSAFY 해커톤 프로젝트 - Full Stack](https://github.com/woodong27/shinhan-solup)   
+[Scrooge - SSAFY 2학기 공통 프로젝트 - Backend](https://github.com/woodong27/Scrooge)   
+[CatchTales - SSAFY 2학기 특화 프로젝트(우수상) - Unity Engineer](https://github.com/woodong27/CatchTales)   
+[Mo-Vieva-Magenta - SSAFY 1학기 관통 프로젝트 - Backend](https://github.com/woodong27/Mo-Vieva-Magenta)   
 
 <br>
 <br>
 
-## Blog
+## Site
 
-[Woodong27's Tech Blog](https://woodong27.github.io)
-
-<br>
-<br>
-
-## Portfolio
-
-[IT 포트폴리오 - Notion](https://woodong27.notion.site/5b715592a1b149e5bba65af96529d2ff?pvs=4)
+Blog : [Woodong27's Tech Blog](https://woodong27.github.io)   
+Porfolio : [IT 포트폴리오 - Notion](https://woodong27.notion.site/5b715592a1b149e5bba65af96529d2ff?pvs=4)   
 
 <br>
 
